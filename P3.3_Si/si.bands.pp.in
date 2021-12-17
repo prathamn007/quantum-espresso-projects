@@ -1,6 +1,0 @@
-&bands
-  outdir='../out'
-  prefix='si'
-  filband='si.bands.dat'
-
-/
