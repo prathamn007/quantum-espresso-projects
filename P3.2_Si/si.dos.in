@@ -1,0 +1,7 @@
+&dos
+    prefix = 'si'
+    outdir= './outdir'
+    fildos = 'si.dos.dat'
+    Emin = -9.0, Emax = 16.0
+
+/
